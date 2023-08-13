@@ -1,12 +1,12 @@
-
 import '../App.css';
-import ButtonComponents from './ButtonComponents';
+import ButtonComponent from './ButtonComponent';
 
 function App() {
   return (
     <div className="App">
       <h2>Hello</h2>
-      <ButtonComponents/>
+      <h2>Hello</h2>
+      <ButtonComponent/>
     </div>
   );
 }
