@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { fetchPosts } from './actions/postActions';
+import { fetchPosts } from '../actions/postActions';
 import {bindActionCreators} from 'redux';
 import {connect} from 'react-redux';
 
